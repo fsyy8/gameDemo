@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaoxin",
+    "texture": "bc50cb3b-0e14-4544-8947-f9e14158ed41",
+    "atlas": "",
+    "rect": [
+      58,
+      14,
+      191,
+      215
+    ],
+    "offset": [
+      -6.5,
+      -1.5
+    ],
+    "originalSize": [
+      320,
+      240
+    ],
+    "rotated": 0
+  }
+}

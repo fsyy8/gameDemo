@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "explosion",
+    "texture": "147df759-fbbd-4256-8162-dc3914626f1c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      476,
+      508
+    ],
+    "offset": [
+      -20,
+      4
+    ],
+    "originalSize": [
+      520,
+      520
+    ],
+    "rotated": 0
+  }
+}

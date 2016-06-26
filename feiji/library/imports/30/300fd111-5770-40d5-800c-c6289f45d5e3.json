@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CloseSelected",
+    "texture": "0bdb2c61-4f08-4df5-b753-915dff64d31d",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      37,
+      37
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      40,
+      40
+    ],
+    "rotated": 0
+  }
+}

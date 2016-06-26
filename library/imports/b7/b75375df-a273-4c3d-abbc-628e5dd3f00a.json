@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "konglong",
+    "texture": "9882376e-823a-43a0-bd68-dc51c680cb80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      362
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      362
+    ],
+    "rotated": 0
+  }
+}

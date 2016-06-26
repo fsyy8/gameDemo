@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CloseNormal",
+    "texture": "f2fec7e8-06ed-4875-8627-fa8b6b01d3a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      40,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      40,
+      40
+    ],
+    "rotated": 0
+  }
+}

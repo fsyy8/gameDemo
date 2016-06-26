@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cocos2d-html5",
+    "texture": "ed4d7fa4-f489-488f-8901-31a583ca9c88",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      85
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      280,
+      88
+    ],
+    "rotated": 0
+  }
+}
