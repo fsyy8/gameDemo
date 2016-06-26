@@ -1,2 +1,8 @@
-# gameDemo
-使用Cocos Creator编写的一个小游戏demo
+# Game Demo
+一个HTML5小游戏Demo by-ZJC
+使用Cocos Creator开发
+
+[预览地址](http://www.tvgonglue.com/game)
+
+作者: ZJC
+[我的简历](http://tvgonglue.com/)
